@@ -1,0 +1,23 @@
+{
+  "short_name": "GM Companion",
+  "name": "Quinfall GM Companion",
+  "description": "Made by Doom & POROS",
+  "icons": [
+    {
+      "src": "https://storage.cloud.google.com/qfitempictures/icon.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://storage.cloud.google.com/qfitempictures/icon.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#f59e0b",
+  "background_color": "#111827"
+}
