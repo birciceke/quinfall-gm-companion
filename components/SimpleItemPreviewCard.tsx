@@ -38,7 +38,7 @@ const SimpleItemPreviewCard: React.FC<SimpleItemPreviewCardProps> = ({
       .catch((err) => {
         console.error("Failed to copy item command:", err);
       });
-  }, [item.command, showNotification]);
+  }, [item.spawnCommand, showNotification]);
 
   return (
     <div
